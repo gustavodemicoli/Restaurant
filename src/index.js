@@ -1,0 +1,1 @@
+console.group("index.js says hello");
