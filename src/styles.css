@@ -1,6 +1,18 @@
 
 #list {
         list-style-type: none; /* Removes the bullets */
-            padding: 0; /* Removes extra padding */
+            padding: 10px; /* Removes extra padding */
             margin: 0; /* Removes extra margin */
+            /* font-weight: bold; */
     }
+
+
+
+li {
+        margin-bottom: 5px;
+}
+
+strong {
+        margin-top: 10px;
+}
+
